@@ -25,14 +25,6 @@ Machine Learning Models: Performance was evaluated across five models: Logistic 
 3. Accuracy Result Table (%)
 The following table summarizes the accuracy achieved by each model for every sampling technique
 
-
-Sampling Technique,  M1_LogReg,  M2_KNN,    M3_SVM,  M4_DecTree,M   5_RanForest
-Sampling1_Random,       92.58,    92.58,      95.20,     96.07,       98.25
-Sampling2_Systematic,   88.28,    89.06,      89.84,     99.22,       100.00
-Sampling3_Stratified,   91.70,    93.89,      92.14,     97.38,       98.69
-Sampling4_Cluster,      97.83,    97.83,      97.83,     97.83,       97.83
-Sampling5_Bootstrap,    92.15,    97.64,      93.46,     97.91,       99.21
-
 <img width="1168" height="287" alt="Screenshot 2026-01-21 at 10 57 50 PM" src="https://github.com/user-attachments/assets/e79100be-30c2-4dad-8b0c-2476f30f65c1" />
 
 
