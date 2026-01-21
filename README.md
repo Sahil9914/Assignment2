@@ -33,6 +33,9 @@ Sampling3_Stratified,   91.70,    93.89,      92.14,     97.38,       98.69
 Sampling4_Cluster,      97.83,    97.83,      97.83,     97.83,       97.83
 Sampling5_Bootstrap,    92.15,    97.64,      93.46,     97.91,       99.21
 
+<img width="1168" height="287" alt="Screenshot 2026-01-21 at 10 57 50 PM" src="https://github.com/user-attachments/assets/e79100be-30c2-4dad-8b0c-2476f30f65c1" />
+
+
 4. Result Visualization
 The visual representation of the model performance is saved in the repository as sampling_results_graph.png.
 
